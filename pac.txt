@@ -4,6 +4,8 @@
 var proxy = "__PROXY__";
 
 var rules = [
+  "||github.com",
+  "||dl.pstmn.io",
   "|http://85.17.73.31/",
   "||twitch.tv",
   "||agnesb.fr",
